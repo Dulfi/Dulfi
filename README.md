@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Dhulfiqar
 
 I’m a passionate **web development student** who loves building clean, functional, and creative websites.  
