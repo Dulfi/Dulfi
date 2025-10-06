@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Dulfi/Dulfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Dhulfiqar
 
-Here are some ideas to get you started:
+I’m a passionate **web development student** who loves building clean, functional, and creative websites.  
+Currently learning and practicing **HTML**, **CSS**, and **JavaScript**, while exploring how design and code come together to create great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Working On
+- Developing my front-end skills through small projects and experiments  
+- Learning about responsive design and accessibility  
+- Exploring Git and GitHub for version control and collaboration  
+
+---
+
+## 🧰 Tools & Technologies
+- HTML | CSS | JavaScript  
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+
+---
+
+## 🚀 Goals
+- Build a portfolio of modern web projects  
+- Keep improving my coding and design skills  
+- Learn more about frameworks like React in the future  
+
+---
+
+## 📫 Connect with Me
+🌐 [My GitHub Profile](https://github.com/Dulfi)  
+💬 Always open to feedback, collaboration, and learning new things!
